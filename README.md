@@ -1,6 +1,9 @@
 # workout_tracker
 
-A new Flutter project.
+Workout tracker app is a fitness application built with the Flutter framework and utilizing various plugins.
+The app provides users with a comprehensive workout tracking and planning solution, helping them stay on track with their fitness goals.
+Users can create and customize their workout plans, including setting goals, selecting exercises, and tracking progress.
+The app also includes a library of pre-designed workouts and exercises for users to choose .
 
 ## Getting Started
 
